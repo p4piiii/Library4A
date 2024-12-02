@@ -651,7 +651,7 @@ The Library Management System provides a safe, efficient means of book, author, 
 - **Endpoint:** `/publio/searchq=`
 - **Method:** `GET`
 - **Query Parameter**:
-- `q` (required): The keyword to search for. For example, to search for items related to "Nick," the URL would be:  
+- `q` (required): The keyword to search for. For example, to search for items related to "Joseph," the URL would be:  
     ```
     http://127.0.0.1/library/public/search?q=Nick
     ```
@@ -665,14 +665,14 @@ The Library Management System provides a safe, efficient means of book, author, 
       "results": [
     {
       "id": 1,
-      "title": "Book Title 1",
-      "author": "Author Name 1",
+      "title": "Basta Clothing",
+      "author": "Jhonel",
       "year": 2020
     },
     {
       "id": 2,
-      "title": "Book Title 2",
-      "author": "Author Name 2",
+      "title": "Joseph The Great",
+      "author": "Emman",
       "year": 2021
     }
     ```
