@@ -777,7 +777,7 @@ function markTokenAsUsed($token) {
 
 ## Project Information
 
-This project is developed as part of a midterm requirement for the ITPC 115(System Integration and Architecture) subject, showcasing the ability to build secure API endpoints and manage tokens effectively.
+This is a midterm project for ITPC 115(System Integration and Architecture) in which building secure API endpoints and dealing with tokens has been portrayed in such a way.
 
 <p align="right">(<a href="#library-management-system">back to top</a>)</p>
 
