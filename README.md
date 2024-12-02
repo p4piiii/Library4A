@@ -653,7 +653,7 @@ The Library Management System provides a safe, efficient means of book, author, 
 - **Query Parameter**:
 - `q` (required): The keyword to search for. For example, to search for items related to "Joseph," the URL would be:  
     ```
-    http://127.0.0.1/library/public/search?q=Nick
+    http://127.0.0.1/library/public/search?q=Joseph
     ```
     
 - **Expected Response:**
