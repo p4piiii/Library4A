@@ -52,8 +52,8 @@ The Library Management System provides a safe, efficient means of book, author, 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/github_username/library_4a.git
-   cd /path/to/xampp/htdocs/library_4a
+   git clone https://github.com/github_username/Library4A.git
+   cd /path/to/xampp/htdocs/libraryjoseph
 
    ```
 
