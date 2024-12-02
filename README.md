@@ -665,15 +665,15 @@ The Library Management System provides a safe, efficient means of book, author, 
       "results": [
     {
       "id": 1,
-      "title": "The Great Nick",
-      "author": "John Doe",
-      "year": 2021
+      "title": "Book Title 1",
+      "author": "Author Name 1",
+      "year": 2020
     },
     {
       "id": 2,
-      "title": "Nick of Time",
-      "author": "Jane Smith",
-      "year": 2019
+      "title": "Book Title 2",
+      "author": "Author Name 2",
+      "year": 2021
     }
     ```
 
